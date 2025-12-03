@@ -51,28 +51,28 @@ const calvin = {
 ### 💻 Frontend
 <div style="background: white; padding: 20px; border-radius: 10px;">
 
-**React** `95%`
+**React** 
 ![React](https://geps.dev/progress/95?dangerColor=61DAFB&warningColor=61DAFB&successColor=61DAFB)
 
-**TypeScript** `90%`
+**TypeScript**
 ![TypeScript](https://geps.dev/progress/90?dangerColor=007ACC&warningColor=007ACC&successColor=007ACC)
 
-**Next.js** `88%`
+**Next.js**
 ![Next.js](https://geps.dev/progress/88?dangerColor=000000&warningColor=000000&successColor=000000)
 
-**Tailwind CSS** `92%`
+**Tailwind CSS**
 ![Tailwind](https://geps.dev/progress/92?dangerColor=38B2AC&warningColor=38B2AC&successColor=38B2AC)
 
-**Vue.js** `85%`
+**Vue.js** 
 ![Vue.js](https://geps.dev/progress/85?dangerColor=4FC08D&warningColor=4FC08D&successColor=4FC08D)
 
-**HTML5** `100%`
+**HTML5** 
 ![HTML5](https://geps.dev/progress/100?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26)
 
-**Nuxt.js** `85%`
+**Nuxt.js** 
 ![Nuxt.js](https://geps.dev/progress/85?dangerColor=00DC82&warningColor=00DC82&successColor=00DC82)
 
-**Bootstrap** `88%`
+**Bootstrap** 
 ![Bootstrap](https://geps.dev/progress/88?dangerColor=563D7C&warningColor=563D7C&successColor=563D7C)
 
 </div>
@@ -82,28 +82,28 @@ const calvin = {
 ### ⚙️ Backend
 <div style="background: white; padding: 20px; border-radius: 10px;">
 
-**Node.js** `93%`
+**Node.js** 
 ![Node.js](https://geps.dev/progress/93?dangerColor=43853D&warningColor=43853D&successColor=43853D)
 
-**Python** `87%`
+**Python**
 ![Python](https://geps.dev/progress/87?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB)
 
-**PostgreSQL** `90%`
+**PostgreSQL** 
 ![PostgreSQL](https://geps.dev/progress/90?dangerColor=316192&warningColor=316192&successColor=316192)
 
-**MongoDB** `85%`
+**MongoDB** 
 ![MongoDB](https://geps.dev/progress/85?dangerColor=47A248&warningColor=47A248&successColor=47A248)
 
-**GraphQL** `82%`
+**GraphQL** 
 ![GraphQL](https://geps.dev/progress/82?dangerColor=E10098&warningColor=E10098&successColor=E10098)
 
-**MySQL** `100%`
+**MySQL** 
 ![MySQL](https://geps.dev/progress/100?dangerColor=00618A&warningColor=00618A&successColor=00618A)
 
-**PHP** `100%`
+**PHP** 
 ![PHP](https://geps.dev/progress/100?dangerColor=777BB4&warningColor=777BB4&successColor=777BB4)
 
-**Java** `78%`
+**Java** 
 ![Java](https://geps.dev/progress/78?dangerColor=007396&warningColor=007396&successColor=007396)
 
 </div>
@@ -115,19 +115,19 @@ const calvin = {
 ### 🔧 DevOps & Tools
 <div style="background: white; padding: 20px; border-radius: 10px;">
 
-**Docker** `88%`
+**Docker** 
 ![Docker](https://geps.dev/progress/88?dangerColor=2496ED&warningColor=2496ED&successColor=2496ED)
 
-**AWS** `85%`
+**AWS** 
 ![AWS](https://geps.dev/progress/85?dangerColor=FF9900&warningColor=FF9900&successColor=FF9900)
 
-**Git** `95%`
+**Git** 
 ![Git](https://geps.dev/progress/95?dangerColor=F05032&warningColor=F05032&successColor=F05032)
 
-**CI/CD** `83%`
+**CI/CD** 
 ![CI/CD](https://geps.dev/progress/83?dangerColor=2088FF&warningColor=2088FF&successColor=2088FF)
 
-**Kubernetes** `78%`
+**Kubernetes** 
 ![Kubernetes](https://geps.dev/progress/78?dangerColor=326CE5&warningColor=326CE5&successColor=326CE5)
 
 </div>
@@ -137,19 +137,19 @@ const calvin = {
 ### 📱 Mobile & Other
 <div style="background: white; padding: 20px; border-radius: 10px;">
 
-**React Native** `88%`
+**React Native** 
 ![React Native](https://geps.dev/progress/88?dangerColor=61DAFB&warningColor=61DAFB&successColor=61DAFB)
 
-**Flutter** `90%`
+**Flutter** 
 ![Flutter](https://geps.dev/progress/90?dangerColor=02569B&warningColor=02569B&successColor=02569B)
 
-**REST APIs** `94%`
+**REST APIs** 
 ![REST APIs](https://geps.dev/progress/94?dangerColor=009688&warningColor=009688&successColor=009688)
 
-**Microservices** `84%`
+**Microservices** 
 ![Microservices](https://geps.dev/progress/84?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B)
 
-**Redis** `81%`
+**Redis** 
 ![Redis](https://geps.dev/progress/81?dangerColor=DC382D&warningColor=DC382D&successColor=DC382D)
 
 </div>
